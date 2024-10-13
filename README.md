@@ -1,2 +1,2 @@
 # invntree-inventory-service
-Order management service for INVNTREE, handling customer orders, order processing, and fulfillment.
+Inventory service for INVNTREE, responsible for tracking stock levels and managing warehouse inventory.
